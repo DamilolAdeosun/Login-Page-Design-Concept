@@ -1,5 +1,4 @@
-<img width="956" height="543" alt="image" src="https://github.com/user-attachments/assets/0dcb2274-611a-48e5-ac1f-7e34c07feae0" /><img width="956" height="543" alt="image" src="https://github.com/user-attachments/assets/ba6a7cf5-40f6-4523-9ff8-2c156e33177f" />
-
+<img width="956" height="543" alt="image" src="https://github.com/user-attachments/assets/0dcb2274-611a-48e5-ac1f-7e34c07feae0" />
 1. Login Page
 
 2. Responsive Website.
